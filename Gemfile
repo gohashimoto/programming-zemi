@@ -43,7 +43,7 @@ group :development, :test do
 end
 
 group :development, :test do
-  gem 'sqlites'
+  gem 'sqlite3'
 end
 
 group :development do
